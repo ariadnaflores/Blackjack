@@ -17,4 +17,4 @@ evaluate to a sum of 21.
 The player can lose if the two cards dealt are both Aces and are
 both Aces and are counted as 11.
 
-![image](https://user-images.githubusercontent.com/51058777/184043734-6616f5a0-f9f4-414c-95d4-f90bc1ee1e8a.png)
+![image](https://user-images.githubusercontent.com/51058777/184045948-7f232bea-2ca7-4cde-b202-8865a5c42621.png)

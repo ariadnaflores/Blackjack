@@ -15,7 +15,7 @@ fun createDeck(): MutableSet<Card> {
     val suits = listOf('\u2663','\u2660','\u2666','\u2665')
     println(suits)
     //Collection of pips
-    val pips = listOf("1","2","3","4","5","6","7","8","9","10","J","Q","K")
+    val pips = listOf("1","2","3","4","5","6","7","8","9","10","J","Q","K","A")
     val deck: MutableSet<Card> = mutableSetOf()
     //Nested for loop to create a card from each point for each suit
     for(suit in suits) {
